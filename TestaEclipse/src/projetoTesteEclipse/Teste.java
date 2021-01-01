@@ -16,6 +16,7 @@ public class Teste {
 		// TODO Auto-generated method stub
 		System.out.println("Treinando Java");
 		System.out.println("Seja Bem Vindo");
+		//Alterado do Git
 
 	}
 
