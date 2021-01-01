@@ -17,6 +17,7 @@ public class Teste {
 		System.out.println("Treinando Java");
 		System.out.println("Seja Bem Vindo");
 		//Alterado do Git
+		//Alterado do Eclipse
 
 	}
 
